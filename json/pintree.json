@@ -412,20 +412,6 @@
       },
       {
         "type": "link",
-        "addDate": 1715869061454,
-        "title": "微信开放文档",
-        "icon": "https://logo.clearbit.com/developers.weixin.qq.com",
-        "url": "https://developers.weixin.qq.com/miniprogram/dev/framework/"
-      },
-      {
-        "type": "link",
-        "addDate": 1720434495094,
-        "title": "ChatGPT",
-        "icon": "https://logo.clearbit.com/chatgpt.com",
-        "url": "https://chatgpt.com/"
-      },
-      {
-        "type": "link",
         "addDate": 1720084773816,
         "title": "AIchatOS",
         "icon": "https://logo.clearbit.com/chat18.aichatos.xyz",
@@ -444,6 +430,13 @@
         "title": "激活",
         "icon": "https://logo.clearbit.com/jbls.ide-soft.com",
         "url": "https://jbls.ide-soft.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1721302776571,
+        "title": "Pintree",
+        "icon": "https://logo.clearbit.com/deartanker007.github.io",
+        "url": "https://deartanker007.github.io/pintree/"
       }
     ]
   }
